@@ -13,6 +13,7 @@
 		30D3FF0F22C2B8AA0027006B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30D3FF0E22C2B8AA0027006B /* Assets.xcassets */; };
 		30D3FF1222C2B8AA0027006B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30D3FF1122C2B8AA0027006B /* Preview Assets.xcassets */; };
 		30D3FF1522C2B8AA0027006B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30D3FF1322C2B8AA0027006B /* LaunchScreen.storyboard */; };
+		30D3FF1D22C2B9280027006B /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30D3FF1C22C2B9280027006B /* TabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		30D3FF1122C2B8AA0027006B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		30D3FF1422C2B8AA0027006B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		30D3FF1622C2B8AA0027006B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		30D3FF1C22C2B9280027006B /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				30D3FF0822C2B8A90027006B /* AppDelegate.swift */,
 				30D3FF0A22C2B8A90027006B /* SceneDelegate.swift */,
 				30D3FF0C22C2B8A90027006B /* ContentView.swift */,
+				30D3FF1C22C2B9280027006B /* TabBar.swift */,
 				30D3FF0E22C2B8AA0027006B /* Assets.xcassets */,
 				30D3FF1322C2B8AA0027006B /* LaunchScreen.storyboard */,
 				30D3FF1622C2B8AA0027006B /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				30D3FF0922C2B8A90027006B /* AppDelegate.swift in Sources */,
 				30D3FF0B22C2B8A90027006B /* SceneDelegate.swift in Sources */,
+				30D3FF1D22C2B9280027006B /* TabBar.swift in Sources */,
 				30D3FF0D22C2B8A90027006B /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
